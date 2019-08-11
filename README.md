@@ -30,7 +30,7 @@ Launch SimFeedback and activate the plugin's profile.
 ### Step 5:
 Hit the start button. Go to the popup window (use ALT+TAB), select your controller from the dropdown menu and configure the buttons.
 
-## Videos": 
+## Videos: 
 [https://youtu.be/IU6mgVw7TTc](https://youtu.be/IU6mgVw7TTc)
 
 [https://youtu.be/o5k5Xlbr3Z4](https://youtu.be/o5k5Xlbr3Z4)
